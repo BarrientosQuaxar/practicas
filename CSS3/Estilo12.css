@@ -1,0 +1,35 @@
+#recuadro22{
+    -ms-transform: skew(15deg,0deg);
+    -webkit-transform: skew(15deg,0deg);
+    -moz-transform: skew(15deg,0deg);
+    -o-transform: skew(15deg,0deg);
+    transform: skew(15deg,0deg);
+    border-radius: 20px;  
+    background-color:#ddd;
+    width:200px;
+    padding:10px;
+  }
+  #recuadro23{
+    -ms-transform: skew(0deg,15deg); 
+    -webkit-transform: skew(0deg,15deg);
+    -moz-transform: skew(0deg,15deg);
+    -o-transform: skew(0deg,15deg);
+    transform: skew(0deg,15deg);
+    border-radius: 20px;  
+    background-color:#ddd;
+    width:200px;
+    padding:10px;
+    margin-top:50px;
+  }
+  #recuadro24{
+    -ms-transform: skew(15deg,15deg); 
+    -webkit-transform: skew(15deg,15deg);
+    -moz-transform: skew(15deg,15deg);
+    -o-transform: skew(15deg,15deg);
+    transform: skew(15deg,15deg);
+    border-radius: 20px;  
+    background-color:#ddd;
+    width:200px;
+    padding:10px;
+    margin-top:70px;
+  }

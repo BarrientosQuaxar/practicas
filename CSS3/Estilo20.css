@@ -1,0 +1,18 @@
+#recuadro45{
+    background-image:  url("logo1.png"), url("foto1.jpg");
+    background-repeat: no-repeat;
+    width:700px;
+    height:450px;
+ }
+ 
+ body {
+   background:white;
+   margin:50px;
+ }
+ 
+ #recuadro46{
+    background-image:  url("logo1.png"), url("foto1.jpg");
+    background-repeat: no-repeat;
+    width:700px;
+    height:450px;
+ }

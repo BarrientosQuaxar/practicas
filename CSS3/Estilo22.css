@@ -1,0 +1,64 @@
+#recuadro49{
+    background-image:    url("logo1.png"), 
+                         url("logo1.png"), 
+                         url("foto1.jpg");
+ 
+    background-position: 0% 0%,
+                         50% 50%;
+ 
+    background-size:     30px 30px,
+                         250px 250px,
+                         700px 450px;
+ 
+    background-repeat: no-repeat;
+    width:700px;
+    height:450px;
+ }
+ #recuadro50{
+    background-image:    url("logo1.png"), 
+                         url("logo1.png"), 
+                         url("foto1.jpg");
+ 
+    background-position: 0% 0%,
+                         50% 50%;
+ 
+    background-size:     30px 30px,
+                         250px 250px,
+                         700px 450px;
+ 
+    background-repeat: no-repeat;
+    width:700px;
+    height:450px;
+ }
+ #recuadro51{
+    background-image:    url("logo1.png"), 
+                         url("logo1.png"), 
+                         url("foto1.jpg");
+ 
+    background-position: 0% 0%,
+                         50% 50%;
+ 
+    background-size:     30px 30px,
+                         250px 250px,
+                         auto auto;
+ 
+    background-repeat: no-repeat;
+    width:700px;
+    height:450px;
+ }
+ #recuadro52{
+    background-image:    url("logo1.png"), 
+                         url("logo1.png"), 
+                         url("foto1.jpg");
+ 
+    background-position: 0% 0%,
+                         50% 50%;
+ 
+    background-size:     50% 50%,
+                         250px 250px,
+                         auto auto;
+ 
+    background-repeat: no-repeat;
+    width:700px;
+    height:450px;
+ }

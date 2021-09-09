@@ -1,0 +1,25 @@
+#recuadro56{
+    border-radius: 20px;  
+    background-color:#ddd;
+    width:200px;
+    padding:10px;
+  }
+  
+  #recuadro56:hover{
+    width:300px;
+  }
+  #recuadro57{
+    border-radius: 20px;  
+    background-color:#ff0;
+    width:200px;
+    padding:10px;
+    transition:width 1s;
+    -moz-transition:width 1s;
+    -ms-transition:width 1s;
+    -webkit-transition:width 1s;
+    -o-transition:width 1s;
+  }
+  
+  #recuadro57:hover{
+    width:300px;
+  }

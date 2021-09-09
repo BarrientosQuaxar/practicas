@@ -1,0 +1,14 @@
+#recuadro3{
+    border-top-left-radius: 20px;  
+    border-bottom-right-radius: 20px;  
+    background-color:#ddd;
+    width:200px;
+    padding:10px;
+  }
+  #recuadro4{
+    border-top-right-radius: 40px;  
+    background-color:#aa0;
+    width:200px;
+    padding:10px;
+    margin-top:10px;
+  }

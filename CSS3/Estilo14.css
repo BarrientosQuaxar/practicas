@@ -1,0 +1,51 @@
+#recuadro26 {
+    background-image: url("foto1.jpg");
+    opacity:0.3;
+    color:#f00;
+    width:700px;
+    height:450px;
+    border-radius:15px;
+    font-size:30px;
+  }
+  #recuadro27 {
+    background-image: url("foto1.jpg");
+    opacity:0.6;
+    color:#f00;
+    width:700px;
+    height:450px;
+    border-radius:15px;
+    font-size:30px;
+  }
+  #recuadro28{
+    background-image: url("foto1.jpg");
+    opacity:0.9;
+    color:#f00;
+    width:700px;
+    height:450px;
+    border-radius:15px;
+    font-size:30px;
+  }
+  #recuadro29 {
+    background-image: url("foto1.jpg");
+    color:#f00;
+    width:700px;
+    height:450px;
+    border-radius:15px;
+    font-size:30px;
+  }
+  .texto30 {
+    background-color:yellow;
+  }
+  #recuadro31 {
+    background-image: url("foto1.jpg");
+    color:#f00;
+    width:700px;
+    height:450px;
+    border-radius:15px;
+    font-size:30px;
+  }
+  
+  .texto32 {
+    background-color:yellow;
+    opacity:0.2;
+  }

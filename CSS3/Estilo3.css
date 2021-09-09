@@ -1,0 +1,7 @@
+#recuadro5{
+    box-shadow: 30px 10px 20px #aaa; 
+    border-radius: 20px;  
+    background-color:#ddd;
+    width:200px;
+    padding:10px;
+  }

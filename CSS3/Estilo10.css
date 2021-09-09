@@ -1,0 +1,31 @@
+#recuadro19{
+    -ms-transform: scale(0.8 , 1.2);
+    -webkit-transform: scale(0.8 , 1.2);
+    -moz-transform: scale(0.8 , 1.2);
+    -o-transform: scale(0.8 , 1.2);
+    transform: scale(0.8 , 1.2);
+  
+    -ms-transform-origin: left top;
+    -webkit-transform-origin: left top;
+    -moz-transform-origin: left top;
+    -o-transform-origin: left top;
+    transform-origin: left top;
+  
+    border-radius: 20px;  
+    background-color:#ddd;
+    width:200px;
+    padding:10px;
+  }
+  #recuadro20{
+    -ms-transform: scale(1.20 ,-1);
+    -webkit-transform: scale(1.20 ,-1);
+    -moz-transform: scale(1.20 ,-1);
+    -o-transform: scale(1.20 ,-1);
+    transform: scale(1.20 ,-1);
+  
+    border-radius: 20px 40px 40px 20px;  
+    background-color:#aa0;
+    width:200px;
+    padding:10px;
+    margin-top:70px;
+  }

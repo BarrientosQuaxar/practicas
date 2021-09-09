@@ -1,0 +1,40 @@
+#recuadro53{
+    background-origin: border-box;
+    border: 20px solid #eee;
+    padding: 20px;
+    background-image: url("casa.png");
+    background-color:#ff0;
+    background-repeat: no-repeat;
+    width:300px;
+    height:200px;
+ }
+ 
+ #recuadro54{
+    background-origin: padding-box; 
+    border: 20px solid #eee;
+    padding: 20px;
+    background-image: url("casa.png");
+    background-color:#ff0;
+    background-repeat: no-repeat;
+    width:300px;
+    height:200px;
+    margin-top:50px;
+ }
+ 
+ #recuadro55{
+    background-origin: content-box; 
+    border: 20px solid #eee;
+    padding: 20px;
+    background-image: url("casa.png");
+    background-color:#ff0;
+    background-repeat: no-repeat;
+    width:300px;
+    height:200px;
+    margin-top:50px;
+ }
+ 
+ 
+ body {
+   background:white;
+   margin:50px;
+ }

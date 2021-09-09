@@ -1,0 +1,13 @@
+#recuadro38{
+    -moz-column-width:200px;
+    -webkit-column-width:200px;
+    column-width:200px;
+    border-radius: 20px;  
+    background-color:#ddd;
+    padding:10px;
+  }
+  #recuadro39 p {
+    text-indent: 1em;
+    margin: 0;
+    text-align: justify;
+  }
